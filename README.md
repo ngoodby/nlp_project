@@ -18,5 +18,5 @@
 - Scattertext and WordCloud for term visualization
 
 *Communication:*
-- A Scattertext visualization of terms can be found here
-- Slides summarizing the analysis and relevant findings can be found here
+- A Scattertext visualization of terms can be found [here](https://github.com/ngoodby/nlp_project/blob/391c25279167b8b1191e281d8abd5401cb87f873/figures/pre_post_covid.html)
+- Slides summarizing the analysis and relevant findings can be found [here]
