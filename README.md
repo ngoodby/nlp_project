@@ -20,4 +20,4 @@ Non-negative matrix factorization (NMF) was used for topic modeling. A range of 
 
 *Communication:*
 - A Scattertext visualization comparing terms before and after the start of the COVID-19 pandemic can be found [here](https://github.com/ngoodby/nlp_project/blob/391c25279167b8b1191e281d8abd5401cb87f873/figures/pre_post_covid.html)
-- Slides summarizing the analysis and relevant findings can be found [here](https://github.com/ngoodby/nlp_project/blob/59c044aae9fbe8b44efb8ddb2350856bb99d40d9/nlp_slides.pdf)
+- Slides summarizing the analysis and relevant findings can be found [here](https://github.com/ngoodby/nlp_project/blob/master/nlp_slides_final.pdf)
